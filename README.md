@@ -31,10 +31,10 @@ Tensorflow 2 Speech Recognition Code (LAS)
 - etc.
 
 ## Examples
-- tensorboard examples (trained on data with short length (<=500))
+- Tensorboard examples (trained on data with short length (<=500))
 <center><img src="./image/pic2.png"></center>
-- attention weight examples
-<center><img src="./image/pic#.png"></center>
+- Attention weight examples
+<center><img src="./image/pic3.png"></center>
 
 ## References and Resources
 - https://github.com/Rayhane-mamah/Tacotron-2
